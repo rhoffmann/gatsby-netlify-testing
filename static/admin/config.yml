@@ -1,5 +1,6 @@
 backend:
-  name: rhoffmann/gat
+  name: github
+  repo: rhoffmann/gatsby-netlify-testing
 
 media_folder: static/assets
 
